@@ -1,6 +1,6 @@
 # Dynamic Occupancy Grid Maps (DOGMas)
 
-Implimentation of the algorithm proposed in:
+Implementation of the algorithm proposed in:
 
 D. Nuss, S. Reuter, M. Thom, T. Yuan, G. Krehl, M. Maile, A. Gern, and K. Dietmayer. A
 random finite set approach for dynamic occupancy grid maps with real-time application. arXiv,
